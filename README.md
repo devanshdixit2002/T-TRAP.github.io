@@ -1,2 +1,2 @@
 # T-TRAP.github.io
-IT is a phone tracking website
+IT IS A PHONE TRACKING WEBSITE
